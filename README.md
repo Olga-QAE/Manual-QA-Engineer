@@ -100,7 +100,7 @@ Test suite and Test case ---
 
 
 API ---
-[![Postman](https://img.shields.io/badge/Postman%20Collection-Download-orange?logo=postman&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/tree/main/My%20resume%20and%20test%20documentation%20samples/API) 📖 [View Public Documentation](https://dmytro-rekhlitskyi.postman.co/documentation/29119710-9bf174a6-69a2-42d7-84cb-dfc028deb93f/publish?workspaceId=3635d79f-a8eb-4db1-8677-145700f4c962#seo)
+[![Postman](https://img.shields.io/badge/Postman%20Collection-Download-orange?logo=postman&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/tree/main/My%20resume%20and%20test%20documentation%20samples/API) 📖 [![View Docs](https://img.shields.io/badge/View-Postman%20Docs-blue?logo=postman&logoColor=white)](https://dmytro-rekhlitskyi.postman.co/documentation/29119710-9bf174a6-69a2-42d7-84cb-dfc028deb93f/publish?workspaceId=3635d79f-a8eb-4db1-8677-145700f4c962#seo)
 
 MySQL --- 
 [![MySQL](https://img.shields.io/badge/MySQL%20Queries-SQL-blue?logo=mysql&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/blob/main/My%20resume%20and%20test%20documentation%20samples/MySQL/user_tab.sql)
