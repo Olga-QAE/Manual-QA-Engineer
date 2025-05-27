@@ -98,7 +98,7 @@ Test suite and Test case --- [![QA Docs](https://img.shields.io/badge/GitHub-QA%
 
 
 API ---
-[![QA Docs](https://img.shields.io/badge/GitHub-QA%20Documentation-blue?logo=github)](https://github.com/Olga-QAE/Manual-QA-Engineer/tree/main/My%20resume%20and%20test%20documentation%20samples/API)
+[![Postman](https://img.shields.io/badge/Postman%20Collection-Download-orange?logo=postman&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/tree/main/My%20resume%20and%20test%20documentation%20samples/API)
 
 MySQL ---
 
