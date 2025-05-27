@@ -90,17 +90,20 @@ I am a **dedicated QA Engineer** with ~2 years of experience in testing **web** 
 📁 You can find examples of my QA documentation here: 
 
 Bug Reports ---
-[![QA Docs](https://img.shields.io/badge/GitHub-QA%20Documentation-blue?logo=github)](https://github.com/Olga-QAE/Manual-QA-Engineer/tree/main/My%20resume%20and%20test%20documentation%20samples/Bug%20Reports)
+[![Bug Reports](https://img.shields.io/badge/Bug%20Reports-View-red?logo=bugatti&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/tree/main/My%20resume%20and%20test%20documentation%20samples/Bug%20Reports)
 
-Checklist --- [![QA Docs](https://img.shields.io/badge/GitHub-QA%20Documentation-blue?logo=github)](https://github.com/Olga-QAE/Manual-QA-Engineer/tree/main/My%20resume%20and%20test%20documentation%20samples/Checklist)
+Checklist --- 
+[![Checklist](https://img.shields.io/badge/Checklist-View-blue?logo=files&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/tree/main/My%20resume%20and%20test%20documentation%20samples/Checklist)
 
-Test suite and Test case --- [![QA Docs](https://img.shields.io/badge/GitHub-QA%20Documentation-blue?logo=github)](https://github.com/Olga-QAE/Manual-QA-Engineer/tree/main/My%20resume%20and%20test%20documentation%20samples/Test%20suite%20and%20Test%20case)
+Test suite and Test case --- 
+[![Test Cases](https://img.shields.io/badge/Test%20Cases-View-green?logo=files&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/tree/main/My%20resume%20and%20test%20documentation%20samples/Test%20suite%20and%20Test%20case)
 
 
 API ---
 [![Postman](https://img.shields.io/badge/Postman%20Collection-Download-orange?logo=postman&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/tree/main/My%20resume%20and%20test%20documentation%20samples/API)
 
-MySQL ---
+MySQL --- 
+[![MySQL](https://img.shields.io/badge/MySQL%20Queries-SQL-blue?logo=mysql&logoColor=white)]
 
 
 
