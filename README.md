@@ -72,5 +72,5 @@ I am a **dedicated QA Engineer** with ~2 years of experience in testing **web** 
 
 ---
 
-📁 You can find examples of my QA documentation here:  
+📁 You can find examples of my QA documentation and obtained certifications here: 
 [![QA Docs](https://img.shields.io/badge/GitHub-QA%20Documentation-blue?logo=github)](https://github.com/Olga-QAE/Manual-QA-Engineer/tree/main/My%20resume%20and%20test%20documentation%20samples)
