@@ -21,7 +21,11 @@ I am a **dedicated QA Engineer** with ~2 years of experience in testing **web** 
 - 🧷 Manual testing types: **regression**, **localization**, **UI/UX**, **cross-browser**, **sanity**, **functional**
 - 🧠 Basic understanding of AI technologies
 - 🌍 English — **Strong Intermediate**
-- 
+- 🔍 Attention to Detail — I carefully analyze product behavior to catch even subtle bugs.
+- 💬 Strong Communication — I clearly communicate bugs, risks, and ideas to developers and stakeholders.
+- ⏰ Time Management — I meet deadlines and efficiently plan test activities.
+- 🔄 Adaptability — I quickly learn new tools and adjust to changing project needs.
+- 🤝 Teamwork — I collaborate well with cross-functional teams (QA, Devs, Analysts).
 ---
 
 ## 💼 Tools & Technologies
