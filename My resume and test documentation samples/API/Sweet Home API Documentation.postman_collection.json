@@ -1,0 +1,338 @@
+{
+	"info": {
+		"_postman_id": "9bf174a6-69a2-42d7-84cb-dfc028deb93f",
+		"name": "Sweet Home API Documentation",
+		"description": "**Base URL:** https://sweet-home-api.onrender.com/\n\n**Frontend:** https://sweet-home-six.vercel.app/",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "29119710",
+		"_collection_link": "https://dmytro-rekhlitskyi.postman.co/workspace/3635d79f-a8eb-4db1-8677-145700f4c962/collection/29119710-9bf174a6-69a2-42d7-84cb-dfc028deb93f?action=share&source=collection_link&creator=29119710"
+	},
+	"item": [
+		{
+			"name": "User",
+			"item": [
+				{
+					"name": "Registration of a new user",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"//Збереження токену у зміну ",
+									"pm.environment.set(\"auth_token\", pm.response.json().token);",
+									"",
+									"//Перевірка статус-коду ",
+									"pm.test(\"Status code is 201\", function () { pm.response.to.have.status(201);});",
+									"pm.test(\"Status code is 400\", function () { pm.response.to.have.status(400);});",
+									"pm.test(\"Status code is 403\", function () { pm.response.to.have.status(403);});",
+									"pm.test(\"Status code is 404\", function () { pm.response.to.have.status(404);});",
+									"pm.test(\"Status code is 500\", function () { pm.response.to.have.status(500);});",
+									"",
+									"//Перевірка часу відповіді ",
+									"pm.test(\"Response time is less than 5000ms\", function () { pm.expect(pm.response.responseTime).to.be.below(5000);});",
+									"",
+									"//Перевірка Content-Type ",
+									"pm.test(\"Content-Type includes application/json\", function () { var contentType = pm.response.headers.get(\"Content-Type\"); pm.expect(contentType).to.include(\"application/json\");});",
+									"",
+									""
+								],
+								"type": "text/javascript",
+								"packages": {}
+							}
+						}
+					],
+					"protocolProfileBehavior": {
+						"disabledSystemHeaders": {
+							"accept": true
+						}
+					},
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"email\": \"admin41@example.com\",\n  \"password\": \"St!admin\",\n  \"username\": \"john_admin\",\n  \"role\": \"admin\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://sweet-home-api.onrender.com/api/user/registration",
+							"protocol": "https",
+							"host": [
+								"sweet-home-api",
+								"onrender",
+								"com"
+							],
+							"path": [
+								"api",
+								"user",
+								"registration"
+							]
+						},
+						"description": "🔁 Pre-request Script\n\n//Збереження токену у зміну\n\npm.environment.set(\"auth_token\", pm.response.json().token);\n\n//Перевірка статус-коду\n\npm.test(\"Status code is 201\", function () { pm.response.to.have.status(201);});\n\npm.test(\"Status code is 400\", function () { pm.response.to.have.status(400);});\n\npm.test(\"Status code is 403\", function () { pm.response.to.have.status(403);});\n\npm.test(\"Status code is 404\", function () { pm.response.to.have.status(404);});\n\npm.test(\"Status code is 500\", function () { pm.response.to.have.status(500);});\n\n//Перевірка часу відповіді\n\npm.test(\"Response time is less than 5000ms\", function () { pm.expect(pm.response.responseTime).to.be.below(5000);});\n\n//Перевірка Content-Type\n\npm.test(\"Content-Type includes application/json\", function () { var contentType = pm.response.headers.get(\"Content-Type\"); pm.expect(contentType).to.include(\"application/json\");});\n\n#### **Response:**\n\n{\n\n\"token\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImVtYWlsIjoiYWRtaW40MUBleGFtcGxlLmNvbSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc0ODM2Mjc4NywiZXhwIjoxNzQ4NDQ5MTg3fQ.QgHL1NT8qe5LSzYRS0EtXg0cfY4QMp_646-9bb7hztw\",\n\n\"user\":\n\n{ \"id\": 35,\n\n\"email\": \"[admin41@example.com](https://mailto:admin41@example.com)\",\n\n\"role\": \"admin\",\n\n\"password\": \"$2b$05$bUb5J5XA5pxpwBrY4GNw5ue0pkcJemztonzFXSVBnRlQbbqbv3rxa\", \"username\": \"john_admin\",\n\n\"basketId\": 35,\n\n\"updatedAt\": \"2025-05-27T16:19:47.356Z\",\n\n\"createdAt\": \"2025-05-27T16:19:47.356Z\" }\n\n}"
+					},
+					"response": []
+				},
+				{
+					"name": "Authentication",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"//Перевірка статус-коду ",
+									"pm.test(\"Status code is 200\", function () { pm.response.to.have.status(200);});",
+									"pm.test(\"Status code is 400\", function () { pm.response.to.have.status(400);});",
+									"pm.test(\"Status code is 401\", function () { pm.response.to.have.status(401);});",
+									"pm.test(\"Status code is 403\", function () { pm.response.to.have.status(403);});",
+									"pm.test(\"Status code is 404\", function () { pm.response.to.have.status(404);});",
+									"pm.test(\"Status code is 500\", function () { pm.response.to.have.status(500);});",
+									"",
+									"",
+									"//Перевірка часу відповіді ",
+									"pm.test(\"Response time is less than 5000ms\", function () { pm.expect(pm.response.responseTime).to.be.below(5000);});",
+									"",
+									"//Перевірка Content-Type ",
+									"pm.test(\"Content-Type includes application/json\", function () { var contentType = pm.response.headers.get(\"Content-Type\"); pm.expect(contentType).to.include(\"application/json\");});",
+									""
+								],
+								"type": "text/javascript",
+								"packages": {}
+							}
+						}
+					],
+					"protocolProfileBehavior": {
+						"disabledSystemHeaders": {
+							"accept": true
+						}
+					},
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "GET",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{auth_token}}",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "https://sweet-home-six.vercel.app/api/user/auth",
+							"protocol": "https",
+							"host": [
+								"sweet-home-six",
+								"vercel",
+								"app"
+							],
+							"path": [
+								"api",
+								"user",
+								"auth"
+							]
+						},
+						"description": "### Authenticates the user and returns a token.\n\n### **GET /api/user/auth**\n\n🔁 Pre-request Script\n\n//Перевірка статус-коду pm.test(\"Status code is 200\", function () { pm.response.to.have.status(200);});pm.test(\"Status code is 400\", function () { pm.response.to.have.status(400);});pm.test(\"Status code is 401\", function () { pm.response.to.have.status(401);});pm.test(\"Status code is 403\", function () { pm.response.to.have.status(403);});pm.test(\"Status code is 404\", function () { pm.response.to.have.status(404);});pm.test(\"Status code is 500\", function () { pm.response.to.have.status(500);});\n\n//Перевірка часу відповіді pm.test(\"Response time is less than 5000ms\", function () { pm.expect(pm.response.responseTime).to.be.below(5000);});  \n//Перевірка Content-Type pm.test(\"Content-Type includes application/json\", function () { var contentType = pm.response.headers.get(\"Content-Type\"); pm.expect(contentType).to.include(\"application/json\");});\n\n#### **Example Request (cURL):**\n\ncurl --location '[https://sweet-home-six.vercel.app/api/user/auth'](https://sweet-home-six.vercel.app/api/user/auth')  \n\\--header 'Content-Type: application/json'  \n\\--header 'Authorization: Bearer '\n\n#### **Response:**\n\n{ \"token\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzQsImVtYWlsIjoiYWRtaW4zMUBleGFtcGxlLmNvbSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc0ODM2MjE2OCwiZXhwIjoxNzQ4NDQ4NTY4fQ.HqqrBCtAAs2TMbUUcQb_3f6EV85mhIOg4plOLKZKra8\"}"
+					},
+					"response": []
+				},
+				{
+					"name": "user info",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"//Перевірка статус-коду ",
+									"pm.test(\"Status code is 200\", function () { pm.response.to.have.status(200);});",
+									"pm.test(\"Status code is 400\", function () { pm.response.to.have.status(400);});",
+									"pm.test(\"Status code is 403\", function () { pm.response.to.have.status(403);});",
+									"pm.test(\"Status code is 404\", function () { pm.response.to.have.status(404);});",
+									"pm.test(\"Status code is 500\", function () { pm.response.to.have.status(500);});",
+									"",
+									"//Перевірка наявності поля 'id' ",
+									"var jsonData = pm.response.json(); pm.test(\"All items have 'id' field\", function () { if (Array.isArray(jsonData)) { jsonData.forEach(function(item) { pm.expect(item).to.have.property(\"id\"); }); } else { pm.expect(jsonData).to.have.property(\"id\"); } });",
+									"",
+									"//Перевірка часу відповіді ",
+									"pm.test(\"Response time is less than 5000ms\", function () { pm.expect(pm.response.responseTime).to.be.below(5000);});",
+									"",
+									"//Перевірка Content-Type ",
+									"pm.test(\"Content-Type includes application/json\", function () { var contentType = pm.response.headers.get(\"Content-Type\"); pm.expect(contentType).to.include(\"application/json\");});",
+									"",
+									"",
+									""
+								],
+								"type": "text/javascript",
+								"packages": {}
+							}
+						}
+					],
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true,
+						"disabledSystemHeaders": {
+							"accept": true
+						}
+					},
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "GET",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{auth_token}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"email\": \"testnewuser@gmail.com\",\n  \"password\": \"%%25Jungle\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://sweet-home-six.vercel.app/api/user/info",
+							"protocol": "https",
+							"host": [
+								"sweet-home-six",
+								"vercel",
+								"app"
+							],
+							"path": [
+								"api",
+								"user",
+								"info"
+							]
+						},
+						"description": "Retrieves current user’s profile info.\n\n### **GET /api/user/info**\n\n🔁 Pre-request Script\n\n//Перевірка статус-коду\n\npm.test(\"Status code is 200\", function () { pm.response.to.have.status(200);});\n\npm.test(\"Status code is 400\", function () { pm.response.to.have.status(400);});\n\npm.test(\"Status code is 403\", function () { pm.response.to.have.status(403);});\n\npm.test(\"Status code is 404\", function () { pm.response.to.have.status(404);});\n\npm.test(\"Status code is 500\", function () { pm.response.to.have.status(500);});\n\n  \n//Перевірка наявності поля 'id'\n\nvar jsonData = pm.response.json(); pm.test(\"All items have 'id' field\", function () { if (Array.isArray(jsonData)) { jsonData.forEach(function(item) { pm.expect(item).to.have.property(\"id\"); }); } else { pm.expect(jsonData).to.have.property(\"id\"); } });\n\n  \n//Перевірка часу відповіді\n\npm.test(\"Response time is less than 5000ms\", function () { pm.expect(pm.response.responseTime).to.be.below(5000);});\n\n  \n//Перевірка Content-Type\n\npm.test(\"Content-Type includes application/json\", function () { var contentType = pm.response.headers.get(\"Content-Type\"); pm.expect(contentType).to.include(\"application/json\");});  \n  \n  \n\n#### **Response:**\n\n{\n\n\"id\": 34,\n\n\"username\": \"john_admin\",\n\n\"email\": \"[admin31@example.com](https://mailto:admin31@example.com)\",\n\n\"role\": \"admin\",\n\n\"createdAt\": \"2025-05-27T15:44:41.302Z\",\n\n\"updatedAt\": \"2025-05-27T15:44:41.302Z\",\n\n\"basketId\": 34,\n\n\"basket\":\n\n{ \"id\": 34,\n\n\"goodsIds\": \\[\\],\n\n\"selectedGoods\": \\[\\],\n\n\"createdAt\": \"2025-05-27T15:44:41.290Z\",\n\n\"updatedAt\": \"2025-05-27T15:44:41.290Z\" }\n\n}"
+					},
+					"response": []
+				},
+				{
+					"name": "user order",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"//Перевірка статус-коду ",
+									"pm.test(\"Status code is 200\", function () { pm.response.to.have.status(200);});",
+									"pm.test(\"Status code is 400\", function () { pm.response.to.have.status(400);});",
+									"pm.test(\"Status code is 403\", function () { pm.response.to.have.status(403);});",
+									"pm.test(\"Status code is 404\", function () { pm.response.to.have.status(404);});",
+									"pm.test(\"Status code is 500\", function () { pm.response.to.have.status(500);});",
+									"",
+									"//Перевірка наявності поля 'id' ",
+									"var jsonData = pm.response.json(); pm.test(\"All items have 'id' field\", function () { if (Array.isArray(jsonData)) { jsonData.forEach(function(item) { pm.expect(item).to.have.property(\"id\"); }); } else { pm.expect(jsonData).to.have.property(\"id\"); } });",
+									"",
+									"//Перевірка часу відповіді ",
+									"pm.test(\"Response time is less than 5000ms\", function () { pm.expect(pm.response.responseTime).to.be.below(5000);});",
+									"",
+									"//Перевірка Content-Type ",
+									"pm.test(\"Content-Type includes application/json\", function () { var contentType = pm.response.headers.get(\"Content-Type\"); pm.expect(contentType).to.include(\"application/json\");});",
+									"",
+									""
+								],
+								"type": "text/javascript",
+								"packages": {}
+							}
+						}
+					],
+					"protocolProfileBehavior": {
+						"disabledSystemHeaders": {
+							"accept": true
+						}
+					},
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "GET",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{auth_token}}",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "https://sweet-home-six.vercel.app/api/user/{{userValid}}/orders",
+							"protocol": "https",
+							"host": [
+								"sweet-home-six",
+								"vercel",
+								"app"
+							],
+							"path": [
+								"api",
+								"user",
+								"{{userValid}}",
+								"orders"
+							]
+						},
+						"description": "Get a list of orders for a specific user.\n\n### **GET /api/user/:id/orders**\n\n🔁 Pre-request Script\n\n//Перевірка статус-коду\n\npm.test(\"Status code is 200\", function () { pm.response.to.have.status(200);});\n\npm.test(\"Status code is 400\", function () { pm.response.to.have.status(400);});\n\npm.test(\"Status code is 403\", function () { pm.response.to.have.status(403);});\n\npm.test(\"Status code is 404\", function () { pm.response.to.have.status(404);});\n\npm.test(\"Status code is 500\", function () { pm.response.to.have.status(500);});\n\n  \n//Перевірка наявності поля 'id'\n\nvar jsonData = pm.response.json(); pm.test(\"All items have 'id' field\", function () { if (Array.isArray(jsonData)) { jsonData.forEach(function(item) { pm.expect(item).to.have.property(\"id\"); }); } else { pm.expect(jsonData).to.have.property(\"id\"); } });\n\n  \n//Перевірка часу відповіді\n\npm.test(\"Response time is less than 5000ms\", function () { pm.expect(pm.response.responseTime).to.be.below(5000);});\n\n  \n//Перевірка Content-Type\n\npm.test(\"Content-Type includes application/json\", function () { var contentType = pm.response.headers.get(\"Content-Type\"); pm.expect(contentType).to.include(\"application/json\");});  \n  \n\n#### **Example Request (cURL):**\n\ncurl --location '[https://sweet-home-six.vercel.app/api/user/19/orders'](https://sweet-home-six.vercel.app/api/user/19/orders')  \n\\--header 'Content-Type: application/json'  \n\\--header 'Authorization: Bearer '\n\n#### **Response:**\n\n{ \"message\": \"Недостаточно прав (требуется роль: ADMIN)\"}"
+					},
+					"response": []
+				}
+			],
+			"description": "Headers:\n\nContent-Type: application/json\n\nAuthorization: Bearer {{XXXXXXXXXXXXXXXX}}\n\nEndpoint:\n\n\\- POST /api/user/registration\n\n\\- GET /api/user/auth\n\n\\- GET /api/user/info\n\n\\- GET /api/user/{{userValid}}/orders\n\nStatus-коди:\n\n\\- 200 OK – List of exercise entities\n\n\\- 201 Success – Запис створено\n\n\\- 400 Bad Request – Invalid request\n\n\\- 401 Unauthorized access – \"error\": \"JWT Token not found or Expired JWT Token\"\n\n\\- 403 Granted access – Access Denied by ROLE_ADMIN\n\n\\- 404 - Not Found\n\n\\- 500 Internal Server Error – Помилка на сервері\n\n**Pre-request Script**\n\n//Перевірка статус-коду\n\npm.test(\"Status code is 200\", function () { pm.response.to.have.status(200);});\n\npm.test(\"Status code is 201\", function () { pm.response.to.have.status(201);});\n\npm.test(\"Status code is 400\", function () { pm.response.to.have.status(400);});\n\npm.test(\"Status code is 401\", function () { pm.response.to.have.status(401);});\n\npm.test(\"Status code is 403\", function () { pm.response.to.have.status(403);});\n\npm.test(\"Status code is 404\", function () { pm.response.to.have.status(404);});\n\npm.test(\"Status code is 500\", function () { pm.response.to.have.status(500);});\n\n//Збереження токену у зміну\n\npm.environment.set(\"auth_token\", pm.response.json().token);\n\n//Перевірка часу відповіді\n\npm.test(\"Response time is less than 5000ms\", function () { pm.expect(pm.response.responseTime).to.be.below(5000);});\n\n//Перевірка Content-Type\n\npm.test(\"Content-Type includes application/json\", function () { var contentType = pm.response.headers.get(\"Content-Type\"); pm.expect(contentType).to.include(\"application/json\");});\n\n//Перевірка всього jsonData як item\n\nvar jsonData = pm.response.json();  \npm.test(\"All items in 'data' array have 'id' field\", function () { pm.expect(jsonData).to.have.property(\"data\"); pm.expect(jsonData.data).to.be.an('array');  \njsonData.data.forEach(function(item) { pm.expect(item).to.have.property(\"id\"); });});\n\n//Перевірка масив не пустий\n\npm.test(\"Data array is not empty\", function () { pm.expect(jsonData.data.length).to.be.above(0);});",
+			"auth": {
+				"type": "bearer",
+				"bearer": [
+					{
+						"key": "token",
+						"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9",
+						"type": "string"
+					}
+				]
+			},
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"type": "text/javascript",
+						"packages": {},
+						"exec": [
+							""
+						]
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"packages": {},
+						"exec": [
+							""
+						]
+					}
+				}
+			]
+		}
+	]
+}
