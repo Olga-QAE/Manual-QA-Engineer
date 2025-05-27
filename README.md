@@ -72,7 +72,7 @@ I am a **dedicated QA Engineer** with ~2 years of experience in testing **web** 
 
 ## 📜 Certifications
 
-- **QA Engineer** — QALight (2024)  
+- **QA Engineer** — QALight (2024)  [![QA Light](https://img.shields.io/badge/QALight-QA%20Engineer-blue?logo=googleclassroom&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/blob/main/My%20resume%20and%20test%20documentation%20samples/Certificates/QAlight.pdf)
 - **SQL Intro** — Codefinity (2024)  
 - **AI Basics** — Academyocean (2024)  
 - **Testing Levels (theory + practice)** — Edu.QAUkraine (2025)  
