@@ -1,7 +1,7 @@
 # 👩‍💻 Olha Rekhlitska — Manual QA Engineer
 
 📧 yuwebcomp@gmail.com | 📱 +380989321036  
-🔗 [LinkedIn](https://www.linkedin.com/in/olha-rekhlitska-1ba705247/) | 🧑‍💼 @olha_reh | 💻 olharekhlitska
+🔗 [LinkedIn](https://www.linkedin.com/in/olha-rekhlitska-1ba705247/) | [![Telegram](https://img.shields.io/badge/Telegram-@olha_reh-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/olha_reh) | 
 
 ---
 
