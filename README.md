@@ -72,11 +72,11 @@ I am a **dedicated QA Engineer** with ~2 years of experience in testing **web** 
 
 ## 📜 Certifications
 
-- **QA Engineer** — QALight (2024)  
-- **SQL Intro** — Codefinity (2024)  
-- **AI Basics** — Academyocean (2024)  
-- **Testing Levels (theory + practice)** — Edu.QAUkraine (2025)  
-- **Bug Reporting & Defects** — Edu.QAUkraine (2025)
+- **QA Engineer** — QALight (2024)  [![QA Light](https://img.shields.io/badge/QALight-QA%20Engineer-blue?logo=googleclassroom&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/blob/main/My%20resume%20and%20test%20documentation%20samples/Certificates/QAlight.pdf)
+- **SQL Intro** — Codefinity (2024)  [![SQL](https://img.shields.io/badge/Codefinity-SQL%20Basics-purple?logo=codeforces&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/blob/main/My%20resume%20and%20test%20documentation%20samples/Certificates/SQL.pdf)
+- **AI Basics** — Academyocean (2024)  [![AI](https://img.shields.io/badge/Academyocean-AI%20Basics-orange?logo=openai&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/blob/main/My%20resume%20and%20test%20documentation%20samples/Certificates/AI.pdf)
+- **Testing Levels (theory + practice)** — Edu.QAUkraine (2025)  [![Testing Theory](https://img.shields.io/badge/Edu.QAUkraine-Testing%20Levels-green?logo=bookstack&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/blob/main/My%20resume%20and%20test%20documentation%20samples/Certificates/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%20_%D0%A0%D1%96%D0%B2%D0%BD%D1%96%20%D1%82%D0%B5%D1%81%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_.%20%D0%92%D1%96%D0%B4%20%D1%82%D0%B5%D0%BE%D1%80%D1%96%D1%97%20%D0%B4%D0%BE%20%D0%B7%D0%B0%D1%81%D1%82%D0%BE%D1%81%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F.pdf)
+- **Bug Reporting & Defects** — Edu.QAUkraine (2025) [![Bug Reports](https://img.shields.io/badge/Edu.QAUkraine-Bug%20Reporting-red?logo=bugatti&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/blob/main/My%20resume%20and%20test%20documentation%20samples/Certificates/%D0%95%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0%20%D0%B7%20%D0%B4%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D0%B0%D0%BC%D0%B8%20%D1%82%D0%B0%20%D0%B1%D0%B0%D0%B3%20%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BC%D0%B8.%20%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%20%D0%B7%20%D1%96%D1%81%D0%BF%D0%B8%D1%82%D0%BE%D0%BC.pdf)
 
 ---
 
@@ -87,5 +87,24 @@ I am a **dedicated QA Engineer** with ~2 years of experience in testing **web** 
 
 ---
 
-📁 You can find examples of my QA documentation and obtained certifications here: 
-[![QA Docs](https://img.shields.io/badge/GitHub-QA%20Documentation-blue?logo=github)](https://github.com/Olga-QAE/Manual-QA-Engineer/tree/main/My%20resume%20and%20test%20documentation%20samples)
+📁 You can find examples of my QA documentation here: 
+
+Bug Reports ---
+[![Bug Reports](https://img.shields.io/badge/Bug%20Reports-View-red?logo=bugatti&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/tree/main/My%20resume%20and%20test%20documentation%20samples/Bug%20Reports)
+
+Checklist --- 
+[![Checklist](https://img.shields.io/badge/Checklist-View-blue?logo=files&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/tree/main/My%20resume%20and%20test%20documentation%20samples/Checklist)
+
+Test suite and Test case --- 
+[![Test Cases](https://img.shields.io/badge/Test%20Cases-View-green?logo=files&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/tree/main/My%20resume%20and%20test%20documentation%20samples/Test%20suite%20and%20Test%20case)
+
+
+API ---
+[![Postman](https://img.shields.io/badge/Postman%20Collection-Download-orange?logo=postman&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/tree/main/My%20resume%20and%20test%20documentation%20samples/API)
+
+MySQL --- 
+[![MySQL](https://img.shields.io/badge/MySQL%20Queries-SQL-blue?logo=mysql&logoColor=white)]
+
+
+
+
