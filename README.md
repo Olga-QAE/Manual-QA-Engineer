@@ -67,7 +67,3 @@ I am a **dedicated QA Engineer** with ~2 years of experience in testing **web** 
 
 **Kharkiv State University of Food Technology and Trade**  
 *Accounting and Audit* (2004 – 2010)
-
----
-
-> 🔍 Looking for opportunities to contribute to meaningful projects where quality matters.
