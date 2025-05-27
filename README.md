@@ -19,12 +19,23 @@ I am a **dedicated QA Engineer** with ~2 years of experience in testing **web** 
 - ✍️ Creation of **test cases**, **checklists**, **bug reports**
 - 🧪 Test design techniques: **Boundary**, **Equivalence**, **Pairwise**
 - 🧷 Manual testing types: **regression**, **localization**, **UI/UX**, **cross-browser**, **sanity**, **functional**
-- 🌐 Knowledge of **HTML/CSS**, cross-browser compatibility
-- 🧩 Testing tools: **Postman**, **Jira**, **TestRail**, **Trello**
-- 💾 **SQL** — basic queries for validation
-- 📲 **Mobile testing** on real devices & emulators (Android Studio, Xcode)
 - 🧠 Basic understanding of AI technologies
 - 🌍 English — **Strong Intermediate**
+- 
+---
+
+## 💼 Tools & Technologies
+
+![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-informational)
+![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-informational)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/-Xcode-1575F9?logo=xcode&logoColor=white)
 
 ---
 
@@ -74,16 +85,3 @@ I am a **dedicated QA Engineer** with ~2 years of experience in testing **web** 
 
 📁 You can find examples of my QA documentation and obtained certifications here: 
 [![QA Docs](https://img.shields.io/badge/GitHub-QA%20Documentation-blue?logo=github)](https://github.com/Olga-QAE/Manual-QA-Engineer/tree/main/My%20resume%20and%20test%20documentation%20samples)
-
-## 💼 Tools & Technologies
-
-![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-informational)
-![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white)
-![TestRail](https://img.shields.io/badge/-TestRail-1D3557)
-![SQL](https://img.shields.io/badge/-SQL-informational)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
-![Xcode](https://img.shields.io/badge/-Xcode-1575F9?logo=xcode&logoColor=white)
