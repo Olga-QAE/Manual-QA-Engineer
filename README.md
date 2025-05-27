@@ -103,7 +103,7 @@ API ---
 [![Postman](https://img.shields.io/badge/Postman%20Collection-Download-orange?logo=postman&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/tree/main/My%20resume%20and%20test%20documentation%20samples/API)
 
 MySQL --- 
-[![MySQL](https://img.shields.io/badge/MySQL%20Queries-SQL-blue?logo=mysql&logoColor=white)] (https://github.com/Olga-QAE/Manual-QA-Engineer/blob/main/My%20resume%20and%20test%20documentation%20samples/MySQL/user_tab.sql)
+[![MySQL](https://img.shields.io/badge/MySQL%20Queries-SQL-blue?logo=mysql&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/blob/main/My%20resume%20and%20test%20documentation%20samples/MySQL/user_tab.sql)
 
 
 
