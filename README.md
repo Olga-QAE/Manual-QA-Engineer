@@ -4,7 +4,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@olha_reh-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/olha_reh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-olha--rekhlitska-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olha-rekhlitska-1ba705247/)
 
-📱 +380989321036  
+📱 +380989321036
 ---
 
 🎯 **About Me**
