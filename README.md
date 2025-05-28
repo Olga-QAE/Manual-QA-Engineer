@@ -40,6 +40,7 @@ I am a **dedicated QA Engineer** with ~2 years of experience in testing **web** 
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-informational)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+[![DevTools](https://img.shields.io/badge/Browser%20Tool-Chrome%20DevTools-lightgrey?logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/devtools/)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
