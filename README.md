@@ -4,7 +4,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@olha_reh-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/olha_reh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-olha--rekhlitska-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olha-rekhlitska-1ba705247/)
 
-📱 +380989321036  
+<sub>📱 +380989321036</sub>
 ---
 
 🎯 **About Me**
@@ -17,7 +17,11 @@ I am a **dedicated QA Engineer** with ~2 years of experience in testing **web** 
 
 - ✅ Deep understanding of **SDLC/STLC**
 - ✍️ Creation of **test cases**, **checklists**, **bug reports**
-- 🧪 Test design techniques: **Boundary**, **Equivalence**, **Pairwise**
+- 🧪 Test design techniques: [![Equivalence Partitioning](https://img.shields.io/badge/Technique-Equivalence%20Partitioning-blue?logo=readthedocs)](https://github.com/Olga-QAE/Manual-QA-Engineer/blob/main/My%20resume%20and%20test%20documentation%20samples/Test%20design%20techniques/Equivalence%20Partitioning.pdf)
+[![Boundary Value Analysis](https://img.shields.io/badge/Technique-Boundary%20Value%20Analysis-blueviolet?logo=readthedocs)](https://github.com/Olga-QAE/Manual-QA-Engineer/blob/main/My%20resume%20and%20test%20documentation%20samples/Test%20design%20techniques/Boundary%20Value%20Analysis.pdf)
+[![Decision Table Testing](https://img.shields.io/badge/Technique-Decision%20Table%20Testing-orange?logo=readthedocs)](https://github.com/Olga-QAE/Manual-QA-Engineer/blob/main/My%20resume%20and%20test%20documentation%20samples/Test%20design%20techniques/Decision%20table.pdf)
+[![State Transition](https://img.shields.io/badge/Technique-State%20Transition-green?logo=readthedocs)](https://github.com/Olga-QAE/Manual-QA-Engineer/blob/main/My%20resume%20and%20test%20documentation%20samples/Test%20design%20techniques/State%20Transition%20testing.pdf)
+[![Pairwise Testing](https://img.shields.io/badge/Technique-Pairwise%20Testing-teal?logo=readthedocs)](https://github.com/Olga-QAE/Manual-QA-Engineer/blob/main/My%20resume%20and%20test%20documentation%20samples/Test%20design%20techniques/Pairwise%20testing.pdf)
 - 🧷 Manual testing types: **regression**, **localization**, **UI/UX**, **cross-browser**, **sanity**, **functional**
 - 🧠 Basic understanding of AI technologies
 - 🌍 English — **Strong Intermediate**
@@ -36,6 +40,7 @@ I am a **dedicated QA Engineer** with ~2 years of experience in testing **web** 
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-informational)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+[![DevTools](https://img.shields.io/badge/Browser%20Tool-Chrome%20DevTools-lightgrey?logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/devtools/)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
