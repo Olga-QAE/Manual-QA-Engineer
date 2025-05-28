@@ -17,7 +17,11 @@ I am a **dedicated QA Engineer** with ~2 years of experience in testing **web** 
 
 - ✅ Deep understanding of **SDLC/STLC**
 - ✍️ Creation of **test cases**, **checklists**, **bug reports**
-- 🧪 Test design techniques: **Boundary**, **Equivalence**, **Pairwise**
+- 🧪 Test design techniques: [![Equivalence Partitioning](https://img.shields.io/badge/Technique-Equivalence%20Partitioning-blue?logo=readthedocs)](https://github.com/Olga-QAE/Manual-QA-Engineer/blob/main/My%20resume%20and%20test%20documentation%20samples/Test%20design%20techniques/Equivalence%20Partitioning.pdf)
+[![Boundary Value Analysis](https://img.shields.io/badge/Technique-Boundary%20Value%20Analysis-blueviolet?logo=readthedocs)](https://github.com/Olga-QAE/Manual-QA-Engineer/blob/main/My%20resume%20and%20test%20documentation%20samples/Test%20design%20techniques/Boundary%20Value%20Analysis.pdf)
+[![Decision Table Testing](https://img.shields.io/badge/Technique-Decision%20Table%20Testing-orange?logo=readthedocs)](https://github.com/Olga-QAE/Manual-QA-Engineer/blob/main/My%20resume%20and%20test%20documentation%20samples/Test%20design%20techniques/Decision%20table.pdf)
+[![State Transition](https://img.shields.io/badge/Technique-State%20Transition-green?logo=readthedocs)](https://github.com/Olga-QAE/Manual-QA-Engineer/blob/main/My%20resume%20and%20test%20documentation%20samples/Test%20design%20techniques/State%20Transition%20testing.pdf)
+[![Pairwise Testing](https://img.shields.io/badge/Technique-Pairwise%20Testing-teal?logo=readthedocs)](https://github.com/Olga-QAE/Manual-QA-Engineer/blob/main/My%20resume%20and%20test%20documentation%20samples/Test%20design%20techniques/Pairwise%20testing.pdf)
 - 🧷 Manual testing types: **regression**, **localization**, **UI/UX**, **cross-browser**, **sanity**, **functional**
 - 🧠 Basic understanding of AI technologies
 - 🌍 English — **Strong Intermediate**
