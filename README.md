@@ -34,16 +34,18 @@ I am a **dedicated QA Engineer** with ~2 years of experience in testing **web** 
 
 ## 💼 Tools & Technologies
 
+## 💼 Tools & Technologies
+
 ![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-informational)
 ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-informational)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-[![DevTools](https://img.shields.io/badge/Browser%20Tool-Chrome%20DevTools-lightgrey?logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/devtools/)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/-Chrome%20DevTools-lightgrey?logo=googlechrome&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?logo=xcode&logoColor=white)
 
 ---
