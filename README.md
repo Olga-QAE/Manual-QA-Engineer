@@ -106,6 +106,7 @@ Checklist ---
 Test suite and Test case --- 
 [![Test Cases](https://img.shields.io/badge/Test%20Cases-View-green?logo=files&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/tree/main/My%20resume%20and%20test%20documentation%20samples/Test%20suite%20and%20Test%20case)
 
+Test Report --- 
 [![Test Report](https://img.shields.io/badge/Test%20Report-View-blue?logo=files&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/tree/main/My%20resume%20and%20test%20documentation%20samples/QA%20Test%20Report%20)
 
 API ---
