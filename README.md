@@ -34,8 +34,6 @@ I am a **dedicated QA Engineer** with ~2 years of experience in testing **web** 
 
 ## 💼 Tools & Technologies
 
-## 💼 Tools & Technologies
-
 ![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-informational)
 ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
