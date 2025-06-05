@@ -47,6 +47,10 @@ I am a **dedicated QA Engineer** with ~2 years of experience in testing **web** 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?logo=xcode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-informational?logo=jetbrains&logoColor=white)
+![Local Project Setup](https://img.shields.io/badge/-Local%20Project%20Setup-informational)
+![Git](https://img.shields.io/badge/-Git-informational?logo=git&logoColor=white)
+![Commit & Push](https://img.shields.io/badge/-Commit%20%26%20Push-informational)
 
 ---
 
