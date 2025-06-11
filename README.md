@@ -34,8 +34,6 @@ I am a **dedicated QA Engineer** with ~2 years of experience in testing **web** 
 
 ## 💼 Tools & Technologies
 
-## 💼 Tools & Technologies
-
 ![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-informational)
 ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
@@ -47,6 +45,10 @@ I am a **dedicated QA Engineer** with ~2 years of experience in testing **web** 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?logo=xcode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-informational?logo=jetbrains&logoColor=white)
+![Local Project Setup](https://img.shields.io/badge/-Local%20Project%20Setup-informational)
+![Git](https://img.shields.io/badge/-Git-informational?logo=git&logoColor=white)
+![Commit & Push](https://img.shields.io/badge/-Commit%20%26%20Push-informational)
 
 ---
 
@@ -85,6 +87,7 @@ I am a **dedicated QA Engineer** with ~2 years of experience in testing **web** 
 - **Testing Levels (theory + practice)** — Edu.QAUkraine (2025)  [![Testing Theory](https://img.shields.io/badge/Edu.QAUkraine-Testing%20Levels-green?logo=bookstack&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/blob/main/My%20resume%20and%20test%20documentation%20samples/Certificates/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%20_%D0%A0%D1%96%D0%B2%D0%BD%D1%96%20%D1%82%D0%B5%D1%81%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_.%20%D0%92%D1%96%D0%B4%20%D1%82%D0%B5%D0%BE%D1%80%D1%96%D1%97%20%D0%B4%D0%BE%20%D0%B7%D0%B0%D1%81%D1%82%D0%BE%D1%81%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F.pdf)
 - **Bug Reporting & Defects** — Edu.QAUkraine (2025) [![Bug Reports](https://img.shields.io/badge/Edu.QAUkraine-Bug%20Reporting-red?logo=bugatti&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/blob/main/My%20resume%20and%20test%20documentation%20samples/Certificates/%D0%95%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0%20%D0%B7%20%D0%B4%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D0%B0%D0%BC%D0%B8%20%D1%82%D0%B0%20%D0%B1%D0%B0%D0%B3%20%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BC%D0%B8.%20%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%20%D0%B7%20%D1%96%D1%81%D0%BF%D0%B8%D1%82%D0%BE%D0%BC.pdf)
 - **Certification Odoo Functional Sample** — [![Odoo](https://img.shields.io/badge/Odoo-Functional%20Sample-purple?logo=odoo&logoColor=white)]([https://github.com/Olga-QAE/Manual-QA-Engineer/blob/main/My%20resume%20and%20test%20documentation%20samples/Certificates/Odoo_Functional_Certification_Sample.pdf](https://github.com/Olga-QAE/Manual-QA-Engineer/blob/main/My%20resume%20and%20test%20documentation%20samples/Certificates/Certification%20Odoo%20Functional%20Sample.pdf))
+- **Certification Adobe Commerce Foundations Sample** — [![Adobe Commerce](https://img.shields.io/badge/Adobe%20Commerce-Foundations%20Sample-orange?logo=adobe&logoColor=white)](https://github.com/YourRepo/Certificates/Adobe_Commerce_Foundations_Certification_Sample.pdf)
 
 ---
 
@@ -106,6 +109,8 @@ Checklist ---
 Test suite and Test case --- 
 [![Test Cases](https://img.shields.io/badge/Test%20Cases-View-green?logo=files&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/tree/main/My%20resume%20and%20test%20documentation%20samples/Test%20suite%20and%20Test%20case)
 
+Test Report --- 
+[![Test Report](https://img.shields.io/badge/Test%20Report-View-blue?logo=files&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/tree/main/My%20resume%20and%20test%20documentation%20samples/QA%20Test%20Report%20)
 
 API ---
 [![Postman](https://img.shields.io/badge/Postman%20Collection-Download-orange?logo=postman&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/tree/main/My%20resume%20and%20test%20documentation%20samples/API) [![View Docs](https://img.shields.io/badge/View-Postman%20Docs-blue?logo=postman&logoColor=white)](https://dmytro-rekhlitskyi.postman.co/documentation/29119710-9bf174a6-69a2-42d7-84cb-dfc028deb93f/publish?workspaceId=3635d79f-a8eb-4db1-8677-145700f4c962#seo)
