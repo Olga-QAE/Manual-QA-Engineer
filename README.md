@@ -62,42 +62,75 @@ Platforms: Odoo (ERP), Adobe Commerce / Magento 2
 Domains: B2B & B2C E-Commerce, Warehouse & Order Automation
 
 Responsibilities:
+
 	•	End-to-end testing of business workflows: Sales, Purchase, Inventory, Checkout, Shipping, Accounting.
+	
 	•	Frontend testing: UI/UX consistency, customer journey validation, responsiveness.
+	
 	•	Backend testing: order lifecycle, pricing rules, taxes, stock reservations, system logic.
+	
 	•	Integration verification:
+	
 	•	Odoo ↔ Magento synchronization
+	
 	•	Track-POD / nShift / FedEx / Posti shipping services
+	
 	•	Email & system notifications (SendGrid)
+	
 	•	Clarification of requirements and acceptance criteria before development.
+	
 
 Test Documentation & Process:
+
 	•	Writing and maintaining Test Cases (TestRail), checklists, regression suites, release validation reports.
+	
 	•	Bug reporting & prioritization in Jira based on severity and business impact.
+	
 	•	Participation in sprint planning, QA syncs, requirements grooming.
+	
 	•	Proposing improvements for usability and workflow optimization.
+	
 
 Types of Testing:
+
 	•	Functional (UI + backend)
+	
 	•	Integration testing (ERP ↔ E-commerce ↔ shipping services)
+	
 	•	Regression / smoke / sanity testing
+	
 	•	API testing (Postman)
+	
 	•	UI/UX review
+	
 	•	Data consistency validation (statuses, inventory, invoices)
+	
 	•	Email template testing (HTML + plain text)
+	
 
 Expertise — Magento 2:
+
 	•	Checkout, payment & shipping scenarios (including Hyvä storefront)
+	
 	•	Price rules, discounts, coupon logic, gift products
+	
 	•	Product catalog setups (simple, configurable, subscription, preorder)
+	
 	•	B2B access logic & customer groups
+	
 
 Expertise — Odoo:
+
 	•	Sales Orders & Quotations workflow
+	
 	•	Warehouse operations: pick → pack → ship
+	
 	•	Inventory adjustments & traceability
+	
 	•	Invoicing visibility and accounting flows
+	
 	•	Email automation & template configuration
+	
 
 
 ### 🔹 NDA Mobile App — *Manual QA Engineer (Part-time)*  
