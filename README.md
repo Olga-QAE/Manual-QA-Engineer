@@ -54,8 +54,52 @@ I am a **dedicated QA Engineer** with ~2 years of experience in testing **web** 
 
 ## 👩‍💻 Work Experience
 
+### 🔹 Goodahead — *Manual QA Engineer (Full-time)*  
+🗓️ 06.2025 – Present
+Platforms: Odoo (ERP), Adobe Commerce / Magento 2
+Domains: B2B & B2C E-Commerce, Warehouse & Order Automation
+
+Responsibilities:
+	•	End-to-end testing of business workflows: Sales, Purchase, Inventory, Checkout, Shipping, Accounting.
+	•	Frontend testing: UI/UX consistency, customer journey validation, responsiveness.
+	•	Backend testing: order lifecycle, pricing rules, taxes, stock reservations, system logic.
+	•	Integration verification:
+	•	Odoo ↔ Magento synchronization
+	•	Track-POD / nShift / FedEx / Posti shipping services
+	•	Email & system notifications (SendGrid)
+	•	Clarification of requirements and acceptance criteria before development.
+
+Test Documentation & Process:
+	•	Writing and maintaining Test Cases (TestRail), checklists, regression suites, release validation reports.
+	•	Bug reporting & prioritization in Jira based on severity and business impact.
+	•	Participation in sprint planning, QA syncs, requirements grooming.
+	•	Proposing improvements for usability and workflow optimization.
+
+Types of Testing:
+	•	Functional (UI + backend)
+	•	Integration testing (ERP ↔ E-commerce ↔ shipping services)
+	•	Regression / smoke / sanity testing
+	•	API testing (Postman)
+	•	UI/UX review
+	•	Data consistency validation (statuses, inventory, invoices)
+	•	Email template testing (HTML + plain text)
+
+Expertise — Magento 2:
+	•	Checkout, payment & shipping scenarios (including Hyvä storefront)
+	•	Price rules, discounts, coupon logic, gift products
+	•	Product catalog setups (simple, configurable, subscription, preorder)
+	•	B2B access logic & customer groups
+
+Expertise — Odoo:
+	•	Sales Orders & Quotations workflow
+	•	Warehouse operations: pick → pack → ship
+	•	Inventory adjustments & traceability
+	•	Invoicing visibility and accounting flows
+	•	Email automation & template configuration
+
+
 ### 🔹 NDA Mobile App — *Manual QA Engineer (Part-time)*  
-🗓️ 12.2024 – Present  
+🗓️ 12.2024 – 06.2025  
 - Created Postman collections with automated checks  
 - Performed **API testing**, **MySQL** DB validation, and business logic checks  
 - Worked with developers to clarify requirements & improve app stability  
@@ -87,7 +131,7 @@ I am a **dedicated QA Engineer** with ~2 years of experience in testing **web** 
 - **Testing Levels (theory + practice)** — Edu.QAUkraine (2025)  [![Testing Theory](https://img.shields.io/badge/Edu.QAUkraine-Testing%20Levels-green?logo=bookstack&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/blob/main/My%20resume%20and%20test%20documentation%20samples/Certificates/%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%20_%D0%A0%D1%96%D0%B2%D0%BD%D1%96%20%D1%82%D0%B5%D1%81%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_.%20%D0%92%D1%96%D0%B4%20%D1%82%D0%B5%D0%BE%D1%80%D1%96%D1%97%20%D0%B4%D0%BE%20%D0%B7%D0%B0%D1%81%D1%82%D0%BE%D1%81%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F.pdf)
 - **Bug Reporting & Defects** — Edu.QAUkraine (2025) [![Bug Reports](https://img.shields.io/badge/Edu.QAUkraine-Bug%20Reporting-red?logo=bugatti&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/blob/main/My%20resume%20and%20test%20documentation%20samples/Certificates/%D0%95%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0%20%D0%B7%20%D0%B4%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D0%B0%D0%BC%D0%B8%20%D1%82%D0%B0%20%D0%B1%D0%B0%D0%B3%20%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BC%D0%B8.%20%D0%9B%D0%B5%D0%BA%D1%86%D1%96%D1%8F%20%D0%B7%20%D1%96%D1%81%D0%BF%D0%B8%D1%82%D0%BE%D0%BC.pdf)
 - **Certification Odoo Functional Sample** — [![Odoo](https://img.shields.io/badge/Odoo-Functional%20Sample-purple?logo=odoo&logoColor=white)]([https://github.com/Olga-QAE/Manual-QA-Engineer/blob/main/My%20resume%20and%20test%20documentation%20samples/Certificates/Odoo_Functional_Certification_Sample.pdf](https://github.com/Olga-QAE/Manual-QA-Engineer/blob/main/My%20resume%20and%20test%20documentation%20samples/Certificates/Certification%20Odoo%20Functional%20Sample.pdf))
-- **Certification Adobe Commerce Foundations Sample** — [![Adobe Commerce](https://img.shields.io/badge/Adobe%20Commerce-Foundations%20Sample-orange?logo=adobe&logoColor=white)](https://github.com/YourRepo/Certificates/Adobe_Commerce_Foundations_Certification_Sample.pdf)
+- **Certification of completion of the Adobe Commerce Foundations course** — [![Adobe Commerce](https://img.shields.io/badge/Adobe%20Commerce-Foundations%20Sample-orange?logo=adobe&logoColor=white)](https://github.com/Olga-QAE/Manual-QA-Engineer/blob/main/My%20resume%20and%20test%20documentation%20samples/Certificates/Adobe%20Commerce%20Foundations.pdf)
 
 ---
 
