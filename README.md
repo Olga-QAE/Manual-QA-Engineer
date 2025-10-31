@@ -56,7 +56,9 @@ I am a **dedicated QA Engineer** with ~2 years of experience in testing **web** 
 
 ### 🔹 Goodahead — *Manual QA Engineer (Full-time)*  
 🗓️ 06.2025 – Present
+
 Platforms: Odoo (ERP), Adobe Commerce / Magento 2
+
 Domains: B2B & B2C E-Commerce, Warehouse & Order Automation
 
 Responsibilities:
